@@ -21,8 +21,8 @@ YieldLab is a browser-side, high-performance visualization tool designed to inst
 
 ## 🌊 Vibe Coded
 
-This project was entirely **vibe coded**. Built through rapid application development and high-level AI prompting, the entire frontend—from the core Recharts visualization to the React and Vite state management—was generated seamlessly. It's a testament to shipping fast and focusing on the outcome.
+This project was entirely **vibe coded**. Built through rapid application development and high-level AI prompting, the entire frontend - from the core Recharts visualization to the React and Vite state management - was generated seamlessly. It's a testament to shipping fast and focusing on the outcome.
 
 ## 📞 Get in Touch
 
-[links.jishanatu](https://links.jishanatu.com)
+[Say Hi to Dev](https://links.jishantukripal.com)
